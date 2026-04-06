@@ -5,7 +5,7 @@ I'm a Product Engineer focused on building scalable web experiences.
 ---
 
 ### 🛠 Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 <!--
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -24,7 +24,7 @@ I'm a Product Engineer focused on building scalable web experiences.
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisdomose&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdomose&layout=compact&theme=transparent)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisdomose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdomose&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
