@@ -1,6 +1,6 @@
 # Hi, I'm Wisdom Ose 👋
 
-I'm a Product Engineer focused on building scalable web experiences.
+A Frontend Engineer focused on building smooth, responsive web experiences.
 
 ---
 
